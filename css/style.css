@@ -1,0 +1,11 @@
+.container {
+  max-width: 30rem;
+  margin: 3rem auto;
+  text-align: left;
+}
+h3 {
+  font-style: italic;
+}
+p {
+  font-family: "Times New Roman", Times, serif;
+}
